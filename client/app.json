@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "TrackMudra",
+    "slug": "TrackMudra",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/TrackMudraIcon.jpg",
+    "splash": {
+      "image": "./assets/NewTracIcon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.TrackMudra.TrackMudra",
+      "buildNumber": "1.0.0",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the camera to scan QR codes."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/TrackMudraIcon.jpg",
+        "backgroundColor": "#FFFFFF"
+      },
+      "permissions": [
+        "CAMERA"
+      ],
+      "package": "com.TrackMudra.TrackMudra"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8e2c152b-997e-4957-924b-58ba5855c13b"
+      }
+    }
+  }
+}
