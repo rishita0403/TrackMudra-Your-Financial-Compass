@@ -1,7 +1,7 @@
 
 # TrackMudra- Your Financial Compass
 
-Welcome to TrackMudra, a comprehensive mobile application designed to empower users with effective tools for managing expenses, tracking investments, setting financial goals, and enhancing financial literacy.
+Welcome to TrackMudra, TrackMudra is a mobile application designed to help users manage expenses, track investments, set financial goals, and provide financial literacy.
 
 ## Download the App
 
@@ -33,7 +33,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/trackmudra.git
+   git clone https://github.com/chandnii96/TrackMudra-Your-Financial-Compass.git
    cd trackmudra
    ```
 
