@@ -16,6 +16,13 @@ Here are some screenshots of the TrackMudra application:
 ![Expense Tracker](https://github.com/user-attachments/assets/64a9c84d-2b77-4e42-8e2d-8b2f2bc3a1e0)
 ![Investment Manager](https://github.com/user-attachments/assets/5bcd1ae2-6a88-48bb-9f14-1304fd90ab1a)
 ![Goal Setter](https://github.com/user-attachments/assets/4ad25910-bff6-4ba7-a66e-cf28bd9bf79e)
+![News](https://github.com/user-attachments/assets/4bc05780-38e4-472d-894f-318931812d78)
+![Retirement Plan](https://github.com/user-attachments/assets/4dbd8511-51ed-4b0f-a432-4e8bad65ced![Rewards](https://github.com/user-attachments/assets/27305831-51db-4e3e-bc25-030449907ef9)
+2)![Schemes](https://github.com/user-attachments/assets/2667a362-5ef8-4a2d-a537-1f1c36a622fd)
+![Events - Copy](https://github.com/user-attachments/assets/2b4d0f1a-729a-4449-8fb4-0b18f355712d)
+![Finbot](https://github.com/user-attachments/assets/a84bc1c4-2958-45bc-8bb7-023c47c76e35)
+![FinCrisps](https://github.com/user-attachments/assets/fee9b5bb-5d5b-4e0a-8f9b-ddb8d522837d)
+
 
 
 ## Key Features
