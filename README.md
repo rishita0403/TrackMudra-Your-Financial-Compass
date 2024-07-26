@@ -75,5 +75,5 @@ We welcome contributions to enhance TrackMudra! If you have any suggestions, bug
 
 For any questions or feedback, please reach out:
 
-- **Name:** Chandni Kumari
-- **Linkedin:** https://linkedin.com/in/chandniikumari/
+- **Name:** Rishita Singh
+- **Linkedin:** [https://www.linkedin.com/in/rishita-singh-557282235/]
