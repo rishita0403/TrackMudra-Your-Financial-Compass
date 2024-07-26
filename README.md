@@ -14,9 +14,8 @@ Here are some screenshots of the TrackMudra application:
 ![Home](https://github.com/user-attachments/assets/a9452ae6-a3aa-4981-ab80-a7f84c48174a)
 ![Expense Tracker](https://github.com/user-attachments/assets/64a9c84d-2b77-4e42-8e2d-8b2f2bc3a1e0)
 ![Investment Manager](https://github.com/user-attachments/assets/5bcd1ae2-6a88-48bb-9f14-1304fd90ab1a)
+![Goal Setter](https://github.com/user-attachments/assets/4ad25910-bff6-4ba7-a66e-cf28bd9bf79e)
 
-<img src="https://github.com/user-attachments/assets/4ad25910-bff6-4ba7-a66e-cf28bd9bf79e" alt="Goal Setter" width="300">
-*Goal Setter Screen*
 
 ## Key Features
 
@@ -69,4 +68,4 @@ We welcome contributions to enhance TrackMudra! If you have any suggestions, bug
 For any questions or feedback, please reach out:
 
 - **Name:** Chandni Kumari
-- **Linkedin:** https://linkedin.com/in/chandniikumari/
+- **Linkedin:** [https://linkedin.com/in/chandniikumari/](https://www.linkedin.com/in/rishita-singh-557282235/)
